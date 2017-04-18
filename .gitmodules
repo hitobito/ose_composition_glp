@@ -1,0 +1,8 @@
+[submodule "hitobito"]
+	path = hitobito
+  branch = master
+	url = https://github.com/matejLukasik/hitobito.git
+[submodule "hitobito_glp"]
+	path = hitobito_glp
+  branch = master
+	url = https://github.com/Zeilenwerk/hitobito_glp.git
