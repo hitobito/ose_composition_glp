@@ -1,7 +1,3 @@
-[submodule "hitobito"]
-	path = hitobito
-  branch = mailchimp-integration-resp-schnittstelle
-	url = https://github.com/matejLukasik/hitobito.git
 [submodule "hitobito_glp"]
 	path = hitobito_glp
   branch = master
