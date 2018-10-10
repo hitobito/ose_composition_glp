@@ -4,4 +4,5 @@
 	url = https://github.com/Zeilenwerk/hitobito_glp.git
 [submodule "hitobito"]
 	path = hitobito
+  branch = glp
 	url = https://github.com/hitobito/hitobito.git
