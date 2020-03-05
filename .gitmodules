@@ -1,8 +1,8 @@
 [submodule "hitobito_glp"]
 	path = hitobito_glp
 	branch = master
-	url = https://github.com/Zeilenwerk/hitobito_glp.git
+	url = https://github.com/hitobito/hitobito_glp.git
 [submodule "hitobito"]
 	path = hitobito
-	branch = master
+	branch = rails-5
 	url = https://github.com/hitobito/hitobito.git
